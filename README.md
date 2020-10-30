@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+---
+Project: 'Random Blog'
+date: '2020-10-30'
+---
+
+# [Random Blog](https://random-blog-two.vercel.app/)
+
+
+
+
+
+
 
 ## Getting Started
 
