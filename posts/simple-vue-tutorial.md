@@ -1,5 +1,5 @@
 ---
-title: 'Learning Computed Props'
+title: 'VueJS Computed Props'
 date: '2020-11-2'
 ---
 
