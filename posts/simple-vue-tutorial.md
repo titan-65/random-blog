@@ -1,6 +1,6 @@
 ---
 title: 'VueJS Computed Props'
-date: '2020-11-2'
+date: '2020-2-11'
 ---
 
 # Learning how to use computed properties - Vue.js
